@@ -1,1 +1,8 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+# VistaPanel
+This is an attempt to recreate Byet's VistaPanel software.
+
+## Orbiter
+Orbiter is the main client facing software (cPanel equivalent)
+
+## Saturn
+Saturn is the server management software (WHM equivalent)
