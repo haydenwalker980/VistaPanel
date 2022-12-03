@@ -34,8 +34,8 @@
 !/app/assets/builds/.keep
 
 /node_modules
-# Ignore .env file containing credentials.
-.env*
+# I don't like my secrets public. (.env.example will replace it)
+.env
 # Ignore Mac and Linux file system files
 *.swp
 .DS_Store
